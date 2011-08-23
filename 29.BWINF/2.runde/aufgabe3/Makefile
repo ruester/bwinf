@@ -1,0 +1,55 @@
+# 29. Bundeswettbewerb Informatik - 2. Runde
+# Aufgabe 3 - Traumdreiecke
+#
+# Autor: Matthias Rüster
+#
+# E-Mail: ruester@molgen.mpg.de
+
+CC	= gcc
+CFLAGS	= -g -Wall -pedantic
+LDFLAGS = -lm
+
+#INITIALIZE
+INITIALISIERUNG        = initialisieren
+OBJECTS_INITIALISIERUNG = initialisieren.o util.o
+
+#MUTATION AND FITNESS
+MUTUNDFIT         = mutundfit
+OBJECTS_MUTUNDFIT = mutundfit.o util.o
+
+#SELECTION
+SELEKTION         = selektion
+OBJECTS_SELEKTION = selektion.o util.o
+
+#RECOMBINATION
+REKOMBINATION         = rekombination
+OBJECTS_REKOMBINATION = rekombination.o util.o
+
+ALLEOBJECTS = $(OBJECTS_INITIALISIERUNG) $(OBJECTS_MUTUNDFIT) \
+              $(OBJECTS_SELEKTION) $(OBJECTS_REKOMBINATION)
+
+ALLEPROGRAMME = $(INITIALISIERUNG) $(MUTUNDFIT) $(SELEKTION) $(REKOMBINATION)
+
+#PHONY TARGETS
+.PHONY: all clean
+
+all: $(ALLEPROGRAMME)
+
+$(INITIALISIERUNG): $(OBJECTS_INITIALISIERUNG)
+	$(CC) -o $@ $(OBJECTS_INITIALISIERUNG) $(LDFLAGS)
+
+$(MUTUNDFIT): $(OBJECTS_MUTUNDFIT)
+	$(CC) -o $@ $(OBJECTS_MUTUNDFIT) $(LDFLAGS)
+
+$(SELEKTION): $(OBJECTS_SELEKTION)
+	$(CC) -o $@ $(OBJECTS_SELEKTION) $(LDFLAGS)
+
+$(REKOMBINATION): $(OBJECTS_REKOMBINATION)
+	$(CC) -o $@ $(OBJECTS_REKOMBINATION) $(LDFLAGS)
+
+%.o: %.c
+	$(CC) -c $(CFLAGS) $^
+
+clean:
+	@rm -vf $(ALLEPROGRAMME)
+	@rm -vf $(ALLEOBJECTS)

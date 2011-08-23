@@ -1,0 +1,21 @@
+# Typ
+Polygon
+# Anzahl Robuttons
+100
+# Anzahl Muenzen
+500
+# Anzahl Ecken
+12
+# Koordinaten der Ecken
+10 10
+200 10
+200 250
+600 250
+600 10
+790 10
+790 790
+600 790
+600 550
+200 550
+200 790
+10 790
