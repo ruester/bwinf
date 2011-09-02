@@ -1,0 +1,96 @@
+ 1  1 Orange Yellow Green Orange
+ 1  2 Green Orange Yellow Blue
+ 1  3 Green Green Yellow Orange
+ 1  4 Yellow Orange Orange Yellow
+ 1  5 Blue Yellow Blue Blue
+ 1  6 Orange Blue Orange Green
+ 1  7 Yellow Yellow Yellow Orange
+ 1  8 Orange Orange Green Yellow
+ 2  1 Yellow Yellow Green Orange
+ 2  2 Green Blue Orange Yellow
+ 2  3 Green Green Green Orange
+ 2  4 Blue Green Yellow Blue
+ 2  5 Orange Yellow Green Yellow
+ 2  6 Orange Blue Blue Green
+ 2  7 Yellow Yellow Blue Green
+ 2  8 Green Green Blue Orange
+ 3  1 Blue Green Yellow Green
+ 3  2 Green Green Blue Orange
+ 3  3 Yellow Green Yellow Orange
+ 3  4 Yellow Blue Orange Yellow
+ 3  5 Orange Blue Blue Yellow
+ 3  6 Blue Blue Orange Orange
+ 3  7 Yellow Orange Blue Blue
+ 3  8 Blue Blue Orange Blue
+ 4  1 Yellow Yellow Yellow Orange
+ 4  2 Orange Yellow Yellow Yellow
+ 4  3 Orange Green Green Yellow
+ 4  4 Green Blue Blue Blue
+ 4  5 Green Blue Yellow Green
+ 4  6 Green Green Blue Orange
+ 4  7 Blue Green Orange Green
+ 4  8 Green Orange Green Orange
+ 5  1 Green Orange Orange Blue
+ 5  2 Green Green Yellow Green
+ 5  3 Yellow Orange Orange Blue
+ 5  4 Blue Orange Blue Green
+ 5  5 Orange Orange Yellow Blue
+ 5  6 Blue Orange Blue Green
+ 5  7 Blue Orange Yellow Green
+ 5  8 Yellow Orange Green Orange
+ 6  1 Orange Blue Blue Blue
+ 6  2 Green Yellow Green Blue
+ 6  3 Yellow Blue Blue Yellow
+ 6  4 Orange Blue Orange Orange
+ 6  5 Orange Green Orange Blue
+ 6  6 Blue Orange Green Blue
+ 6  7 Orange Orange Yellow Green
+ 6  8 Yellow Orange Green Green
+ 7  1 Orange Green Yellow Blue
+ 7  2 Orange Orange Blue Green
+ 7  3 Blue Blue Orange Orange
+ 7  4 Green Yellow Yellow Blue
+ 7  5 Blue Yellow Blue Blue
+ 7  6 Green Green Green Blue
+ 7  7 Blue Orange Yellow Orange
+ 7  8 Yellow Orange Blue Green
+ 8  1 Blue Yellow Green Orange
+ 8  2 Yellow Yellow Green Yellow
+ 8  3 Yellow Blue Green Orange
+ 8  4 Orange Blue Blue Orange
+ 8  5 Yellow Blue Orange Orange
+ 8  6 Yellow Blue Blue Yellow
+ 8  7 Orange Yellow Green Green
+ 8  8 Green Yellow Yellow Green
+ 9  1 Blue Blue Blue Yellow
+ 9  2 Yellow Green Blue Blue
+ 9  3 Yellow Yellow Blue Green
+ 9  4 Yellow Blue Blue Blue
+ 9  5 Blue Orange Orange Yellow
+ 9  6 Blue Orange Green Orange
+ 9  7 Green Yellow Green Yellow
+ 9  8 Blue Orange Orange Green
+10  1 Orange Blue Orange Green
+10  2 Green Blue Yellow Orange
+10  3 Yellow Yellow Blue Blue
+10  4 Yellow Blue Blue Yellow
+10  5 Blue Orange Green Blue
+10  6 Orange Yellow Orange Blue
+10  7 Blue Blue Orange Green
+10  8 Blue Yellow Yellow Orange
+11  1 Yellow Green Green Blue
+11  2 Green Orange Orange Orange
+11  3 Green Blue Orange Orange
+11  4 Blue Orange Green Blue
+11  5 Orange Yellow Blue Yellow
+11  6 Blue Blue Yellow Green
+11  7 Blue Green Yellow Blue
+11  8 Blue Blue Blue Yellow
+12  1 Green Green Yellow Orange
+12  2 Blue Yellow Yellow Green
+12  3 Yellow Yellow Blue Yellow
+12  4 Green Green Orange Blue
+12  5 Blue Orange Yellow Blue
+12  6 Orange Green Green Blue
+12  7 Yellow Orange Blue Yellow
+12  8 Orange Blue Green Green
