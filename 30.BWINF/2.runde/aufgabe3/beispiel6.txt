@@ -1,0 +1,39 @@
+8
+Mannheim
+Essen
+Muenchen
+Muelheim
+Berlin
+Harvestehude
+Lichterfelde
+Hamburg
+Muenchen
+Berlin:Lichterfelde:Muelheim - 0:1:7
+Muenchen:Lichterfelde:Muelheim - 5:6:6
+Harvestehude:Mannheim:Muelheim - 2:6:6
+Harvestehude:Essen:Muelheim - 2:2:2
+Muelheim:Essen:Berlin - 3:2:3
+Berlin:Muelheim:Mannheim - 2:5:5
+Muelheim:Mannheim:Essen - 8:8:0
+Muenchen:Berlin:Mannheim - 0:1:2
+Muenchen:Muelheim:Mannheim - 4:7:7
+Muenchen:Harvestehude:Mannheim - 0:0:1
+Hamburg:Mannheim:Harvestehude - 0:3:0
+Muenchen:Muelheim:Berlin - 0:2:1
+Muenchen:Harvestehude:Essen - 0:0:0
+Muenchen:Essen:Muelheim - 0:0:1
+Muenchen:Essen:Mannheim - 0:0:4
+Muenchen:Hamburg:Mannheim - 0:1:14
+Muenchen:Hamburg:Muelheim - 0:0:99
+Hamburg:Harvestehude:Lichterfelde - 1:2:1
+Berlin:Hamburg:Lichterfelde - 2:1:0
+Essen:Hamburg:Mannheim - 0:2:2
+Muenchen:Harvestehude:Muelheim - 1:1:1
+Harvestehude:Essen:Mannheim - 2:2:1
+Harvestehude:Lichterfelde:Berlin - 2:2:1
+Essen:Hamburg:Berlin - 0:3:1
+Harvestehude:Hamburg:Berlin - 1:2:0
+Harvestehude:Muelheim:Hamburg - 4:4:4
+Muenchen:Lichterfelde:Hamburg - 2:1:2
+Lichterfelde:Essen:Hamburg - 0:0:7
+Harvestehude:Essen:Hamburg - 0:0:6

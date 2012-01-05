@@ -1,0 +1,22 @@
+7
+Berlin
+Harvestehude
+Muenchen
+Essen
+Hamburg
+Koeln
+Lichterfelde
+Harvestehude
+Harvestehude:Berlin:Essen - 0:1:1
+Harvestehude:Berlin:Hamburg - 1:1:2
+Harvestehude:Berlin:Muenchen - 3:4:5
+Harvestehude:Essen:Hamburg - 9:12:11
+Harvestehude:Essen:Muenchen - 7:10:10
+Harvestehude:Hamburg:Muenchen - 9:9:9
+Berlin:Essen:Hamburg - 0:1:3
+Berlin:Essen:Muenchen - 1:2:2
+Berlin:Hamburg:Muenchen - 1:2:2
+Essen:Hamburg:Muenchen - 0:3:5
+Lichterfelde:Harvestehude:Berlin - 2:0:2
+Lichterfelde:Harvestehude:Essen - 0:1:2
+Berlin:Koeln:Muenchen - 0:0:7

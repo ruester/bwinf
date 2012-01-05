@@ -1,0 +1,22 @@
+7
+Mannheim
+Essen
+Muenchen
+Muelheim
+Berlin
+Harvestehude
+Lichterfelde
+Muenchen
+Berlin:Lichterfelde:Muelheim - 1:1:7
+Muenchen:Lichterfelde:Muelheim - 6:3:6
+Harvestehude:Mannheim:Muelheim - 2:3:6
+Harvestehude:Essen:Muelheim - 2:2:2
+Muenchen:Mannheim:Lichterfelde - 2:2:0
+Muelheim:Essen:Berlin - 3:2:0
+Berlin:Muelheim:Mannheim - 2:5:2
+Muelheim:Mannheim:Essen - 8:2:0
+Muenchen:Berlin:Mannheim - 0:1:2
+Muenchen:Muelheim:Mannheim - 4:7:1
+Muenchen:Harvestehude:Mannheim - 0:0:1
+Muenchen:Muelheim:Berlin - 0:2:1
+Muenchen:Harvestehude:Essen - 0:0:0
